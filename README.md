@@ -25,8 +25,8 @@ At this moment I am deepening the knowledge that I have acquired.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anagagel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anagagel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anagallegosgelabert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anagallegosgelabert" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/mara-gabriela-zumaeta-s%C3%A1nchez-1026b3245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
