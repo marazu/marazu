@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mara Gabriela Zumaeta Sánchez</h1>
-<h3 align="center">Curiosity-Driven Data Scientist</h3>
+
 
 I have successfully completed my social work degree but I have always been linked to the technology sector.
 At this moment I am deepening the knowledge that I have acquired.
