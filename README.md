@@ -7,11 +7,11 @@ At this moment I am deepening the knowledge that I have acquired.
 
 <h3 align="center">Approaches to programming:</h3>
 
-✔ Software engineering two years at the Complutense University of Madrid.
-✔ Accreditation web application development
-✔ Social work at the UNED university.
-✔ Google Professional Certificate in Information Technology Support.
-✔ Currently doing Women's Bootcamp at Tech: Web development.
+<br> ✔ Software engineering two years at the Complutense University of Madrid.<br />
+<br>✔ Accreditation web application development<br />
+<br> ✔ Social work at the UNED university.<br />
+<br> ✔  Google Professional Certificate in Information Technology Support.<br />
+<br> ✔  Currently doing Women's Bootcamp at Tech: Web development.<br />
 
 <h4 align="center">Get to know me more:</h4>
 <img align="right" alt="Coding" width="300" src=https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif>
