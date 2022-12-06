@@ -38,7 +38,7 @@ I'm a self-taught passionate FrontEnd developer
 <h3 align="left">Connect with me:</h3>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-maragabriela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maragabriela/)](https://www.linkedin.com/in/maragabriela/)  [![Gmail Badge](https://img.shields.io/badge/-marazumaeta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marazumaeta@gmail.com)](mailto:marazumaeta@gmail.com)  [![GitHub followers](https://img.shields.io/github/followers/marazu?label=Follow&style=social)](https://github.com/marazu/?tab=follow) [!Whatsapp Badge](https://wa.me/41798863200)
+[![Linkedin Badge](https://img.shields.io/badge/-maragabriela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maragabriela/)](https://www.linkedin.com/in/maragabriela/)  [![Gmail Badge](https://img.shields.io/badge/-marazumaeta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marazumaeta@gmail.com)](mailto:marazumaeta@gmail.com)  [![GitHub followers](https://img.shields.io/github/followers/marazu?label=Follow&style=social)](https://github.com/marazu/?tab=follow) [!Whatsapp](https://wa.me/41798863200)
 
   
 
