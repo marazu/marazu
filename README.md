@@ -11,14 +11,14 @@ I'm a self-taught passionate FrontEnd developer
 
 
 
-- 💼  Web development
-- ❤️ I love travel
-- 🌱 I’m currently learning **Python | Html | SAP | CSS
-- 🗣️ English, Spanish, Deutsch
+- 💼  Web development and social work
+- ❤️ I love travel 
+- 🌱 I’m currently learning **Python | Html | CSS | Javascript
+- 🗣️  Spanish and English, Deutsch medium.
 - 💬 Ask me about anything and everything![here](https://github.com/marazu/marazu/issues)
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/41798863200)
 - ⚡ Fun fact: I love meeting new people and eating food!
-- ✨ Other random interests: Rock/Pop/ 🎸, Plants! 🪴, Knitting 🧶, sustainability ♻️
+- ✨ Other random interests: Rock/Pop/ 🎸, Animals! 🪴, Scuba diving🧶, sustainability ♻️ 
 - 📫 How to reach me **marazumaeta@gmail.com**
 
 
@@ -27,10 +27,10 @@ I'm a self-taught passionate FrontEnd developer
 <h4 align="center">Approaches to programming:</h4>
 
 <br> ✔ Software engineering two years at the Complutense University of Madrid.<br />
-<br>✔ Accreditation web application development<br />
+<br> ✔ Accreditation web application development<br />
 <br> ✔ Social work at the UNED university.<br />
-<br> ✔  Google Professional Certificate in Information Technology Support.<br />
-<br> ✔  Currently doing Women's Bootcamp at Tech: Web development.<br />
+<br> ✔ Google Professional Certificate in Information Technology Support.<br />
+<br> ✔ Currently doing Women's Bootcamp at Tech: Web development.<br />
 
 
 ##
