@@ -13,7 +13,7 @@ I'm a self-taught passionate FrontEnd developer
 
 - 💼  Web development and social work
 - ❤️ I love travel 
-- 🌱 I’m currently learning **Python | Html | CSS | Javascript
+- 🌱 I’m currently learning **Python | Html | CSS | Javascript**
 - 🗣️  Spanish and English, Deutsch medium.
 - 💬 Ask me about anything and everything![here](https://github.com/marazu/marazu/issues)
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/41798863200)
