@@ -29,7 +29,7 @@ I'm a self-taught passionate FrontEnd developer
 <br> ✔ Software engineering two years at the Complutense University of Madrid.<br />
 <br> ✔ Accreditation web application development<br />
 <br> ✔ Social work at the UNED university.<br />
-<br> ✔ Google Professional Certificate in Information Technology Support.<br />
+<br> ✔ Google Professional Certificate in Information Technology Support.<br /><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="686ab7a8-9431-4196-ac9d-4b0bdb0103c1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//https://lnkd.in/ekzmGEn3"></script>
 <br> ✔ Currently doing Women's Bootcamp at Tech: Web development.<br />
 
 
